@@ -24,5 +24,5 @@ How to use pandas for basic stats
 How to read and analyze CSV data
 Interpreting average vs median in business data
 📬 Contact
-Srushti Yadav
+Ankita Gawade
 Email: ankitagawade116@gmail.com GitHub: https://github.com/ankita-gds 
